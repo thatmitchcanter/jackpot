@@ -10,7 +10,7 @@
 		<header class="nav">
 			<div class="container">
 				<div class="nav-left">
-					<a class="nav-item">
+					<a class="nav-item" href="<?php echo site_url();?>">
 						<h1>OneSheet</h1>
 					</a>
 				</div>
