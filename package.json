@@ -1,0 +1,25 @@
+{
+  "name": "onesheet",
+  "version": "1.0.0",
+  "description": "OneSheet WordPress Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatmitchcanter/onesheet.git"
+  },
+  "author": "Mitch Canter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatmitchcanter/onesheet/issues"
+  },
+  "homepage": "https://github.com/thatmitchcanter/onesheet#readme",
+  "devDependencies": {
+    "bulma": "^0.4.1",
+    "bulma-scss": "^0.3.0-cc1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
